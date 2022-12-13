@@ -1,2 +1,3 @@
-# cpp-battlesnake
-My Battlesnake written in C++
+# C++ Battlesnake
+
+An implementation of the [BattleSnake API](https://docs.battlesnake.com/api) in C++. 
